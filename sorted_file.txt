@@ -1,0 +1,10 @@
+apple
+banana
+file
+gesture
+lob
+rebound
+robot
+soldier
+thinker
+war

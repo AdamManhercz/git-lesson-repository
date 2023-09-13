@@ -1,0 +1,1 @@
+Some string which was meant to saved into a new file
